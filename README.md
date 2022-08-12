@@ -1,2 +1,2 @@
-# EDA-Project
+# EDA-Project-Googleplaystore
 Data analysis project on Google play store Data set
